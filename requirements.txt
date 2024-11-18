@@ -10,3 +10,4 @@ gitpython!=3.1.19
 pydeck>=0.1.dev5
 tornado>=6.0.3
 watchdog
+fuzzywuzzy==0.18.0
