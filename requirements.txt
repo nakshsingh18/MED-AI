@@ -29,5 +29,5 @@ yarl==1.15.2
 zipp==3.20.2
 streamlit==1.19.0
 pandas==2.0.3
-fuzzywuzzy==0.18.0
-opencage-geocoder==2.3.0
+fuzzywuzzy==0.18.1  # Updated to a compatible version
+opencage-geocoder   # Removed version constraint to allow latest version
