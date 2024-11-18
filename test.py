@@ -5,7 +5,7 @@ import ast
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('/Users/shreyasingh/Downloads/D-04/wabsite_chatbot/test.csv')
+    return pd.read_csv('test.csv')
 
 data = load_data()
 
