@@ -1,3 +1,4 @@
+altair==5.4.1
 streamlit==1.19.0
 opencage==2.4.0
 requests>=2.31.0
